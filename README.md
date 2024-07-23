@@ -30,4 +30,4 @@ Specific Components and webpages are created with HTML, CSS and Razor HTML Embed
 This is just a basic web system for my learning perpose.
 I'm planning to upgrade this system with some useful features, such as; implement security management, performance level increase, server and client side verification and validation in the upcoming updates. 
 
-if you've any suggestion please feel free to reach out me at hhasan.cse@gmail.com
+if you've any suggestion please feel free to reach out me at manupatidar76@gmail.com
